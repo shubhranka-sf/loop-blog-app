@@ -5,7 +5,7 @@ const config = {
   name: 'sqlitedb',
   connector: 'memory',
   localStorage: 'sqdb',
-  file: './'
+  file: './dev.db'
 };
 
 // Observe application's life cycle to disconnect the datasource when

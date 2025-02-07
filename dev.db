@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "Post": 4
+  },
+  "models": {
+    "Post": {
+      "1": "{\"title\":\"Hello\",\"content\":\"content\",\"author\":\"user1\",\"publishedAt\":\"2025-02-07T10:58:55.843Z\",\"additionalProp1\":{},\"id\":1}",
+      "2": "{\"title\":\"Hello\",\"content\":\"content\",\"author\":\"user1\",\"publishedAt\":\"2025-02-07T10:58:55.843Z\",\"additionalProp1\":{},\"id\":2}",
+      "3": "{\"title\":\"title\",\"content\":\"content\",\"author\":\"user\",\"publishedAt\":\"2025-02-07T11:00:57.148Z\",\"additionalProp1\":{},\"id\":3}"
+    }
+  }
+}
